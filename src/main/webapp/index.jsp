@@ -8,11 +8,10 @@
     <body>
         <h1>Demo Project from Devops</h1>
         <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
-        <h1>Hello from SathyaTech</h1>
+        <h1>Hello from Madhav</h1>
         <h1>Hello from kittu</h1>
 
-<table width="50%" bgcolor="blue" align="center" border="2">
+<table width="50%" bgcolor="pink" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
