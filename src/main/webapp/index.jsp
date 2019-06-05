@@ -7,9 +7,9 @@
     <body>
         <h1>Demo Project from Devops</h1>
         <h1>Hello from SathyaTech</h1>
-        <h1>Hello from Madhav kittu</h1>
+        <h1>Hello from Madhav Kittu</h1>
 
-<table width="50%" bgcolor="Green" align="center" border="2">
+<table width="50%" bgcolor="Yellow" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
